@@ -1,8 +1,7 @@
-- 👋 Hi, I’m @harshitsinghsolanki
-- 👀 I’m interested in web development.
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m @harshitsinghsolanki.
+- 🌱 I’m a salesforce developer.
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me e-mai-- harshitsingh96021@gmail.com, insta- @harshitsinghsolanki .
+- 📫 How to reach me e-mai-- harshitsingh96021@gmail.com.
 
 <!---
 harshitsinghsolanki/harshitsinghsolanki is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
